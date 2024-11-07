@@ -765,7 +765,7 @@ const Home = () => {
           <a
             target="_blank"
             href={
-              "https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-WEBAPP"
+              "https//telegram.me/Super_Hacker_Zone"
             }
             className="ml-4 sm:ml-2 cursor-pointer  text-3xl  text-zinc-500   ri-github-fill"
           ></a>
@@ -1030,10 +1030,7 @@ const Home = () => {
         </div>
         <div>
           <p className="font-semibold text-neutral-400 sm:text-sm">
-            <b>THE ULTIMATE SONGS</b> is not affiliated with JioSaavn. All
-            trademarks and copyrights belong to their respective owners. All
-            media, images, and songs are the property of their respective
-            owners. This site is for educational purposes only.
+            <b>RDX MUSIC</b>
           </p>
         </div>
       </div>
