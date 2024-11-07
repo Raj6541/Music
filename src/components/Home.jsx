@@ -762,13 +762,6 @@ const Home = () => {
           >
             Likes
           </Link>
-          <a
-            target="_blank"
-            href={
-              "https//telegram.me/Super_Hacker_Zone"
-            }
-            className="ml-4 sm:ml-2 cursor-pointer  text-3xl  text-zinc-500   ri-github-fill"
-          ></a>
         </motion.div>
       </motion.div>
       <div className="w-full  bg-slate-800  min-h-[63vh] pt-[20vh] pb-[30vh]   text-zinc-300 p-5 flex flex-col gap-5 overflow-auto ">
